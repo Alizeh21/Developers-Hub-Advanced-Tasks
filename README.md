@@ -19,6 +19,7 @@
 *Dataset :*  Mall Customers Dataset
 *Insights :*
   - Based on the cluster profiles, the tailored strategies are:
+  - 
         - Cluster 0: High Income, Low Spenders
               Profile: High income but conservative spenders
               Strategy: Luxury product showcases, exclusive memberships
@@ -73,3 +74,11 @@
          3. Tactics:
               - "Come Back" Discounts: 20% off after 6 months inactive.
               -  Pop-Up Experiences: Local events to rebuild engagement.
+           
+
+
+### Task 3 :  Loan Default Risk with Business Cost Optimization
+*Dataset :*  Home Credit Default Risk Dataset
+*Insights :* 
+  1. This analysis shows CatBoost delivers both better predictive performance (94.7% AUC vs 87.1%) and superior business outcomes ( 92𝑘𝑣𝑠
+ 255k costs) while identifying the most important risk factors in the lending portfolio.
